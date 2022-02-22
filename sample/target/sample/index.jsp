@@ -1,0 +1,5 @@
+<html>
+<body>
+	<h2>SAMPLE MAVEN PROJECT IS CREATED AND DEPLOYED SUCCESSFULLY</h2>
+</body>
+</html>
